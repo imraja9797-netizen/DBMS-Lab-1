@@ -138,9 +138,9 @@ Concepts Covered:
 ---
 
 ## 👤 Student Details
-- **Name:** Alok Kumar  
-- **Roll No:** 23425
-- **Reg. No:** 23105128017
+- **Name:** raja Kumar  sahni
+- **Roll No:** 23453
+- **Reg. No:** 23105128041
 - **Branch :** CSE 
 - **College:** BPMCE,Madhepura 
 - **Session:** 2023–2027  
