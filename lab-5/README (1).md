@@ -35,8 +35,8 @@ INNER JOIN • Multi-table JOIN • Aliases • WHERE • ORDER BY • GROUP BY 
 ├── DB-Lab-5.sql
 └── README.md
 
-## 👨‍💻 Author
-Alok Kumar  
+## 👨‍💻 Authhor
+Raja Kumar Sahni
 CSE | BPMCE 🚀
 
 
